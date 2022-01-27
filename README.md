@@ -1,5 +1,7 @@
 # portfolio_site_ttp
 
+The portfolio site demostrates 5 of the projects I have worked on within the TTP program this winter. On the page, these different sites are linked to Github repositories where the user can view everything in detail.
+
 
 
 [Movie Booking](https://github.com/gabrielt1101/movie_booking)
