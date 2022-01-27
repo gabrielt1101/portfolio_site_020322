@@ -1,10 +1,12 @@
 # portfolio_site_ttp
 
+
+
 [Movie Booking](https://github.com/gabrielt1101/movie_booking)
 
 The movie booking site allows users to purchase tickets and seats from the available movies.
 
-## About
+## Movie Booking - About
 
 <img src="./ezgif.com-gif-maker.gif" alt="ezgif.com-gif-maker" width="500" height="500">
 
@@ -18,7 +20,7 @@ This movie booking site also provides users with a seat selection area that disp
 
 This site demonstrates a styling effect that can be used for login pages. 
 
-## About
+## Form Animation - About
 
 <img src="ezgif.com-gif-maker (1).gif" alt="ezgif.com-gif-maker (1)" width="500" height="500">
 
@@ -34,7 +36,7 @@ If a user accidentially tries to log in without entering any information, a prom
 
 The Expense Tracker site allows users to calculate their income while keeping track of the user's earnings/spendings
 
-## About
+## Expense Tracker - About
 
 <img src="./ezgif.com-gif-maker (2).gif" alt="ezgif.com-gif-maker (2)" width="500" height="500">
 
@@ -49,7 +51,7 @@ The expense tracker helps to provide an accurate and smooth experience to all us
 Relaxer is about taking some time to relieve yourself from everything and let go
 
 
-## About
+## Relaxer - About
 
 <img src="./ezgif.com-gif-maker (4).gif" alt="ezgif.com-gif-maker (4)" width="600" height="600">
 
@@ -62,7 +64,7 @@ The relaxer app is a looping animation that is timed to provide users with a dee
 
 The memory cards site allows users to create quick flash cards
 
-## About
+## Memory Cards - About
 
 <img src="./ezgif.com-gif-maker (3).gif" alt="ezgif.com-gif-maker (3)" width="854" height="480">
 
